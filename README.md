@@ -1,16 +1,8 @@
 # birinci_proje_sayac
 
-Sayac Uygulamasi
+Flutter yolculuğunuzda kendinizi destekleyeceğiniz proje dizini oluşturdum. Bu projeleri yaparak kendinizi geliştirebilir, takıldığınız yerde projelere bakarak yeni şeyler öğrenebilirsiniz.
 
-## Getting Started
+## İçindekiler
 
-This project is a starting point for a Flutter application.
+-Sayaç Uygulaması
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
